@@ -10,7 +10,27 @@ h1 {
   text-align: center;
 }
 
-#download-link {
+h2 {
+   font-family: Verdana;
+   font-weight: 300;
+   color: white;
+   font-size: 42px;
+   text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+h4 {
    color: aquamarine;
-   font-size: 16px;  
+   font-size: 16px;
+   text-align: center;
+}
+
+video {
+  text-align: center;
 }
